@@ -1,6 +1,6 @@
 ## Hi, I'm Konyinsola
 A software developer passionate about building web solutions integrated with Artificial Intelligence and machine learning capabilities to solve problems and find solutions while providing unique frontend interfaces.
-Portfolio: [https://konyinsola-odesanya.vercel.app/](Link). Looking to collaborate 
+Portfolio: [Link](https://konyinsola-odesanya.vercel.app/). Looking to collaborate 
 
 ## 👨🏽‍💻 Tech Stack:
 - **Languages**: JavaScript, TypeScript, Python, Springboot
@@ -10,8 +10,8 @@ Portfolio: [https://konyinsola-odesanya.vercel.app/](Link). Looking to collabora
 - **Backend**: RESTful APIs, Database Management
 
 ## ✉️ Contact
-- **Email**: [mailto:konyinsolaodesanya@gmail.com](konyinsolaodesanya@gmail.com)
-- **LinkedIn**: [linkedin.com/in/konyinsola-odesanya](Connect on LinkedIn)
+- **Email**: [konyinsolaodesanya@gmail.com](mailto:konyinsolaodesanya@gmail.com)
+- **LinkedIn**: [Connect on LinkedIn](linkedin.com/in/konyinsola-odesanya)
 
 ## 🕴 Highlights
 - Led and contributed to machine learning projects (using neural networks), a web development project (a suspicious activity reporting web application), and backend projects (built RESTful APIs using Springboot and building simple backend services using with JWT implementation )
