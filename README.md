@@ -4,10 +4,10 @@ Portfolio: [Link](https://konyinsola-odesanya.vercel.app/). Looking to collabora
 
 ## 👨🏽‍💻 Tech Stack:
 - **Languages**: JavaScript, TypeScript, Python, Springboot
-- **Frameworks**: React.js, NextJS, TailwindCSS
-- **Databases**: Supabase
+- **Frameworks**: React.js, NextJS, ExpressJS, NodeJS, TailwindCSS
+- **Databases**: PostgreSQL, NoSQL (MongoDb), Supabase
 - **Tools & Platforms**: Git, Supabase, TensorFlow, Clerk, Shadcn
-- **Backend**: RESTful APIs, Database Management
+- **Backend**: RESTful APIs, GraphQL, Database Management
 
 ## ✉️ Contact
 - **Email**: [konyinsolaodesanya@gmail.com](mailto:konyinsolaodesanya@gmail.com)
